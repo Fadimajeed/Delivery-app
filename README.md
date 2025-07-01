@@ -40,7 +40,7 @@ Also, ensure you have a Firebase project set up and linked to your Flutter appli
 
 1.  Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clon https://github.com/Fadimajeed/Delivery-app.git
     ```
 2.  Navigate to the project directory:
     ```bash
@@ -105,17 +105,15 @@ This project extensively uses the **Provider** package for state management. `Ch
 ## Screenshots
 
 ![Login Page](https://github.com/Fadimajeed/Delivery-app/blob/master/delivery-app-imges/Screenshot_1751328013.png?raw=true)
-![Home Page](https://github.com/Fadimajeed/Delivery_app/blob/master/delivery-app-images/Screenshot2025-06-23143203.png?raw=true)
-![Menu Page](https://github.com/Fadimajeed/Delivery_app/blob/master/delivery-app-images/Screenshot2025-06-23143224.png?raw=true)
-![Cart Page](https://github.com/Fadimajeed/Delivery_app/blob/master/delivery-app-images/Screenshot2025-06-23143234.png?raw=true)
-![Payment Page](https://github.com/Fadimajeed/Delivery_app/blob/master/delivery-app-images/Screenshot2025-06-23143255.png?raw=true)
-![Delivery Progress Page](https://github.com/Fadimajeed/Delivery_app/blob/master/delivery-app-images/Screenshot2025-06-23143243.png?raw=true)
-![Settings Page](https://github.com/Fadimajeed/Delivery_app/blob/master/delivery-app-images/Screenshot2025-06-23143217.png?raw=true)
-![Register Page](https://github.com/Fadimajeed/Delivery_app/blob/master/delivery-app-images/Screenshot2025-06-23143308.png?raw=true)
+![Register Page](https://github.com/Fadimajeed/Delivery-app/blob/master/delivery-app-imges/Screenshot_1751328017.png?raw=true)
+![Home Page](https://github.com/Fadimajeed/Delivery-app/blob/master/delivery-app-imges/Screenshot_1751328105.png?raw=true)
+![Menu Page](https://github.com/Fadimajeed/Delivery-app/blob/master/delivery-app-imges/Screenshot_1751328108.png?raw=true)
+![Cart Page](https://github.com/Fadimajeed/Delivery-app/blob/master/delivery-app-imges/Screenshot_1751328108.png?raw=true)
+![Payment Page](https://github.com/Fadimajeed/Delivery-app/blob/master/delivery-app-imges/Screenshot_1751328152.png?raw=true)
+![Delivery Progress Page](https://github.com/Fadimajeed/Delivery-app/blob/master/delivery-app-imges/Screenshot_1751328175.png?raw=true)
+![Dart mode](https://github.com/Fadimajeed/Delivery-app/blob/master/delivery-app-imges/Screenshot_1751328211.png?raw=true)
+![Dark home page](https://github.com/Fadimajeed/Delivery-app/blob/master/delivery-app-imges/Screenshot_1751328187.png?raw=true)
 
-## Contributing
-
-Contributions are welcome! Please feel free to fork the repository and submit pull requests.
 
 ## License
 
