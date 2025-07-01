@@ -100,7 +100,7 @@ lib/
 
 ## State Management
 
-This project extensively uses the **Provider** package for state management. `ChangeNotifierProvider` is utilized to manage the application's global state, such as the `ThemeProvider` for theme switching and the `Restaurant` model for managing the menu, cart, and order-related data. This approach ensures efficient and predictable state updates across the application, promoting a clean and maintainable codebase.
+This project extensively uses the **Provider** package for state management. `ChangeNotifierProvider` is utilized to manage the application's global state, such as the `ThemeProvider` for theme switching and the `Restaurant` model for managing the menu, cart, and order-related data. promoting a clean and maintainable codebase.
 
 ## Screenshots
 
